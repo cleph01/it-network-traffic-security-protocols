@@ -4,6 +4,7 @@
 
 # Demonstrating Network Fundamentals and Traffic Analysis in Azure
 
+
 ## Overview
 
 This lab showcases fundamental networking concepts within Microsoft Azure by examining network traffic to and from Azure Virtual Machines (VMs) residing within the same virtual network. By utilizing Wireshark, a powerful protocol analyzer, and interacting with Azure's Network Security Groups (NSGs), we will observe and analyze various network protocols in action. This hands-on exercise demonstrates practical experience in network communication, security controls, and traffic analysis, relevant skills for IT support and help desk roles.
